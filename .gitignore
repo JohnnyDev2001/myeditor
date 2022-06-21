@@ -1,2 +1,4 @@
 __pycache__/
 venv/
+.app.py.swn
+.app.py.swo
